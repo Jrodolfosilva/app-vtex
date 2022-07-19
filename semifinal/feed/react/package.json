@@ -1,0 +1,27 @@
+{
+  "name": "orders-feed-bee02",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "vtex-test-tools test"
+  },
+  "dependencies": {
+    "apollo-client": "^2.6.8",
+    "react": "^16.12.0",
+    "react-apollo": "^3.1.3",
+    "react-dom": "^16.12.0",
+    "react-intl": "^3.12.0"
+  },
+  "devDependencies": {
+    "@apollo/react-testing": "^3.1.3",
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.8",
+    "@types/react": "^16.9.31",
+    "@vtex/test-tools": "^3.3.2",
+    "@vtex/tsconfig": "^0.4.4",
+    "apollo-cache-inmemory": "^1.6.5",
+    "controll.orders-feed-bee02": "https://bee02--controll.myvtex.com/_v/private/typings/linked/v1/controll.orders-feed-bee02@0.0.0+build1658199538/public/@types/controll.orders-feed-bee02",
+    "graphql": "^14.6.0",
+    "typescript": "3.9.7",
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.4/public/@types/vtex.render-runtime"
+  }
+}

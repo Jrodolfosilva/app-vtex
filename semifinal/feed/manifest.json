@@ -1,0 +1,30 @@
+{
+  "name": "orders-feed-bee02",
+  "vendor": "controll",
+  "version": "0.0.0",
+  "title": "Orders Feed Bee02",
+  "description": "App para capturar eventos",
+  "categories": [],
+  "dependencies": {},
+  "builders": {
+    "react": "3.x",
+    "node": "6.x",
+    "docs": "0.x",
+    "admin": "0.x",
+    "graphql": "1.x",
+    "store": "0.x"
+  },
+  "scripts": {
+    "prereleasy": "bash lint.sh"
+  },
+  "credentialType": "absolute",
+  "policies": [
+    {
+      "name": "colossus-fire-event"
+    },
+    {
+      "name": "colossus-write-logs"
+    }
+  ],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
