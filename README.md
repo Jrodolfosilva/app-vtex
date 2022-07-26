@@ -19,7 +19,8 @@
 O projeto foi desenvolvido a partir das tecnologias:
 
 -*VTEX io*
--*REACT JS* 
+-*REACT JS*
+-*TYPESCRIPT*
 
 --------------
 
